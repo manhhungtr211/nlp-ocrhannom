@@ -1,0 +1,954 @@
+[
+    {
+        "id": 1,
+        "poem_content": [
+            {
+                "phien_am": "hộ giá chinh thuận hóa kỷ hành",
+                "dich_nghia": "ghi về chuyến hộ giá chúa đi đánh dẹp ở thuận hóa"
+            },
+            {
+                "phien_am": "nhị hà tiến chu",
+                "dich_nghia": "thuyền đi trên sông nhị hà"
+            },
+            {
+                "phien_am": "thánh chúa phương dương điếu phạt bình",
+                "dich_nghia": "chúa đang hùng dũng tiến đánh kẻ có tội"
+            },
+            {
+                "phien_am": "dư hoàng tiên hậu thụ thần tỉnh",
+                "dich_nghia": "thuyền lớn trước sau đều cắm cờ"
+            },
+            {
+                "phien_am": "lâm lưu huyễn diệu bồng tường ảnh",
+                "dich_nghia": "lướt qua nước vẫn rõ bóng hai chèo cột buồm"
+            },
+            {
+                "phien_am": "áp lãng huyên điển cổ giác thanh",
+                "dich_nghia": "lan mặt sóng rộn tiếng trống và tiếng tù và"
+            },
+            {
+                "phien_am": "phù nhật tòng thần tầm toán lược",
+                "dich_nghia": "bề tôi phò chúa thẹn mình khi giúp mưu lược"
+            },
+            {
+                "phien_am": "thừa phong chí sĩ hỷ công danh",
+                "dich_nghia": "chí sĩ cưỡi gió mừng rỡ gặp hội công danh"
+            },
+            {
+                "phien_am": "nam minh tự thử kình ba thiếp",
+                "dich_nghia": "hẳn từ đây biển nam im lặng sóng kình"
+            },
+            {
+                "phien_am": "giang hán thang thang trữ cáo thành",
+                "dich_nghia": "sông giang sông hán cuồn cuộn chờ báo chiến công"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "poem_content": [
+            {
+                "phien_am": "chương dương hoài cổ",
+                "dich_nghia": "nhớ chương dương thời xưa"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "hạo hạo trường giang lục bái dương",
+                "dich_nghia": "sông dài mênh mông sáu sắc cờ phấp phới"
+            },
+            {
+                "phien_am": "thủy song ngưng vọng tưởng tiền phương",
+                "dich_nghia": "hé cửa sổ thuyền nhìn ra nhớ thuở trước tiếng thơm"
+            },
+            {
+                "phien_am": "hoành giang châu chử thiên niên tại",
+                "dich_nghia": "cồn bãi nằm ngang sông nghìn năm còn đó"
+            },
+            {
+                "phien_am": "đoạt sáo uy danh vạn cổ hương",
+                "dich_nghia": "nơi oai cướp giáo giặc muôn thuở còn truyền"
+            },
+            {
+                "phien_am": "hoa thụ nhiễm nhân dư đại sắc",
+                "dich_nghia": "lá cây nhuộm vào người nét lông mày đen xanh"
+            },
+            {
+                "phien_am": "tùng từ cảm khách hữu tà dương",
+                "dich_nghia": "cụm đền cảm lòng khách khi có bóng nắng chiều"
+            },
+            {
+                "phien_am": "thị hành chính dục bằng anh liệt",
+                "dich_nghia": "chuyến đi này chính là lúc tỏ khí thế anh liệt"
+            },
+            {
+                "phien_am": "tận thủ ô châu hỗn cựu cương",
+                "dich_nghia": "thu lại đất ô châu nhập vào bản đồ như xưa"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "poem_content": [
+            {
+                "phien_am": "thân phù sơn",
+                "dich_nghia": "núi thân phù"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "thiên địa chung linh khải thượng đô",
+                "dich_nghia": "khí trời đất hun đúc mở ra cảnh thượng đô"
+            },
+            {
+                "phien_am": "trường sơn nhất đái hiệu thần phù",
+                "dich_nghia": "một dải núi gọi là núi thần phù"
+            },
+            {
+                "phien_am": "phong toan ngật ngật xanh vân biểu",
+                "dich_nghia": "chóp đứng chót vót chạm mây chân trời"
+            },
+            {
+                "phien_am": "bích lập tằng tằng đáo hải ngu",
+                "dich_nghia": "vách dựng lớp lớp ra tận góc biển"
+            },
+            {
+                "phien_am": "sóc lĩnh cổ quăng phù quốc mạch",
+                "dich_nghia": "núi sóc là chân tay phò vận nước"
+            },
+            {
+                "phien_am": "lam hương thành quách tráng hoàng đồ",
+                "dich_nghia": "làng lam là thành quách giữ bền ngôi vua"
+            },
+            {
+                "phien_am": "mỹ tai hình thế chân kham bảo",
+                "dich_nghia": "hình thế núi thật đẹp đáng của báu"
+            },
+            {
+                "phien_am": "từ thức hưu đàm sự hữu vô",
+                "dich_nghia": "chuyện từ thức có hay không xin miễn bàn"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "poem_content": [
+            {
+                "phien_am": "thiên uy cảng",
+                "dich_nghia": "cảng thiên uy"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "kham tiện càn khôn xảo thiết thi",
+                "dich_nghia": "ngợi khen trời đất khéo bày đặt"
+            },
+            {
+                "phien_am": "hoan châu danh cảng hiệu thiên uy",
+                "dich_nghia": "cảng nổi tiếng châu hoan là cảng thiên uy"
+            },
+            {
+                "phien_am": "duyên sơn thế úy thiên trùng tuấn",
+                "dich_nghia": "ven theo thế núi cao đến nghìn trùng"
+            },
+            {
+                "phien_am": "dẫn thủy triều thông nhất đái vi",
+                "dich_nghia": "dẫn thông nguồn nước bằng dòng sông con"
+            },
+            {
+                "phien_am": "chính ức cao vương dân vị đảo",
+                "dich_nghia": "dân nhớ công cao vương thường có cầu cúng"
+            },
+            {
+                "phien_am": "danh thùy việt sử mỹ đo quy",
+                "dich_nghia": "tiếng tốt còn trong sử nước việt giữ được đến nay"
+            },
+            {
+                "phien_am": "thử gian bộc bố oanh sơn cước",
+                "dich_nghia": "giữa vùng này có thác nước chảy quanh chân núi"
+            },
+            {
+                "phien_am": "nhất đoạn phong quang cánh tự kỳ",
+                "dich_nghia": "một vùng phong cảnh xinh đẹp kỳ diệu"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "poem_content": [
+            {
+                "phien_am": "quế",
+                "dich_nghia": "cây quế"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "kính tiết kỳ tư ngạo tuyết sương",
+                "dich_nghia": "lóng đốt chắc dáng đứng lạ như khinh thường sương tuyết"
+            },
+            {
+                "phien_am": "tứ thời bất cải thố thanh quang",
+                "dich_nghia": "cái vẻ thanh cao ấy suốt bốn mùa không đổi"
+            },
+            {
+                "phien_am": "đình đình ngọc thụ thiên ban lục",
+                "dich_nghia": "sừng sững cây như ngọc ngàn lá biếc"
+            },
+            {
+                "phien_am": "thốc thốc kim hoa thập lý hương",
+                "dich_nghia": "chi chít hoa vàng mười dặm vẫn còn thơm"
+            },
+            {
+                "phien_am": "cao đối vương tông tam chủng dị",
+                "dich_nghia": "tầm cao kém gì ba cây lạ của họ vương"
+            },
+            {
+                "phien_am": "vinh liên đậu lão ngũ chỉ phương",
+                "dich_nghia": "tươi tốt như năm cành thơm của họ đậu"
+            },
+            {
+                "phien_am": "dục tri tiên hữu thanh kỳ xứ",
+                "dich_nghia": "cũng muốn biết chỗ thanh kỳ của bạn tiên"
+            },
+            {
+                "phien_am": "hảo thiến tao nhân vị phát dương",
+                "dich_nghia": "giao hảo với các tao nhân cùng phát dương lên"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "poem_content": [
+            {
+                "phien_am": "hạ quốc lão yến quận công phạm công trứ trí sĩ",
+                "dich_nghia": "mừng quốc lão yến quận công phạm công trứ về hưu"
+            },
+            {
+                "phien_am": "thứ vận thủ vĩ cách",
+                "dich_nghia": "thơ họa lối thủ vĩ ngâm"
+            },
+            {
+                "phien_am": "ngũ bách niên gian danh thế nho",
+                "dich_nghia": "bậc danh nho quý hiếm như đã năm trăm năm"
+            },
+            {
+                "phien_am": "đại la bộ bộ khoái trình đồ",
+                "dich_nghia": "dáng bước vẫn nhanh nhẹn trên các đường"
+            },
+            {
+                "phien_am": "nhật tuyên phương dẫn triều danh đức",
+                "dich_nghia": "danh đức đáng nêu cao làm mẫu mực ở triều đình"
+            },
+            {
+                "phien_am": "thời chỉ phương tư thánh huấn mô",
+                "dich_nghia": "nay về nghỉ đúng lúc như lời dạy của thánh hiền xưa"
+            },
+            {
+                "phien_am": "sơ phó công danh quang cựu phả",
+                "dich_nghia": "công danh của sơ phó phả cũ còn ghi chép"
+            },
+            {
+                "phien_am": "lộ công dung chỉ thướng tân đồ",
+                "dich_nghia": "dung nhan của lộ công đã được vẽ tranh truyền đời"
+            },
+            {
+                "phien_am": "bảo chân cánh diệu điều nguyên thủ",
+                "dich_nghia": "tay thần diệu đã khéo điều hòa nguyên khí"
+            },
+            {
+                "phien_am": "phúc thọ di chung tống cự nho",
+                "dich_nghia": "phúc thọ tạo nên ngài sánh ngang bậc tống nho"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "poem_content": [
+            {
+                "phien_am": "thứ vận hạ quốc lão phương quận công vũ duy chí trí sĩ",
+                "dich_nghia": "họa thơ mừng quốc lão phương quận công vũ duy chí về hưu"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "đường đường danh đức vị sùng ban",
+                "dich_nghia": "đường đường là bậc danh đức cao cả"
+            },
+            {
+                "phien_am": "đắc tạ như kim ngọc bột ban",
+                "dich_nghia": "cảm tạ ơn vua đã ban chiếu cho về nghỉ"
+            },
+            {
+                "phien_am": "bùi tướng đình đài đa dật lạc",
+                "dich_nghia": "đình đài tể tướng họ bùi thêm nhiều niềm vui nhàn hạ"
+            },
+            {
+                "phien_am": "tiền ông tuế nguyệt tự thanh nhàn",
+                "dich_nghia": "năm tháng của ông già họ tiên sống vẻ thanh nhàn"
+            },
+            {
+                "phien_am": "tọa quan minh thánh thùy y trị",
+                "dich_nghia": "ngồi xem đấng minh thánh rủ áo trị nước"
+            },
+            {
+                "phien_am": "tiếu khán nhi tôn ý cẩm hoàn",
+                "dich_nghia": "vui cười thấy con cháu mặc gấm trở về"
+            },
+            {
+                "phien_am": "trung ái sơ tâm trường bất thế",
+                "dich_nghia": "lòng trung ái từ thuở đầu vẫn không thay đổi"
+            },
+            {
+                "phien_am": "quyền quyền thiên bảo chúc cương san",
+                "dich_nghia": "đức hạnh như lời thơ thiên bảo chúc phúc như núi như sông"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "poem_content": [
+            {
+                "phien_am": "tiền đại thanh sứ trịnh phương triều",
+                "dich_nghia": "tiễn sứ nước đại thanh là trịnh phương triều"
+            },
+            {
+                "phien_am": "kỳ tam",
+                "dich_nghia": "bài"
+            },
+            {
+                "phien_am": "tập tập đông phong tống khách thiểu",
+                "dich_nghia": "gió đông phơi phới tiễn xe khách về nước"
+            },
+            {
+                "phien_am": "bằng trình cửu vạn khoái phù dao",
+                "dich_nghia": "cánh chim bằng phải khoát nhanh qua chín vạn dặm"
+            },
+            {
+                "phien_am": "vân biên thái phượng hàm đan chiếu",
+                "dich_nghia": "chim phượng rẽ mây chuyển tờ chiếu son"
+            },
+            {
+                "phien_am": "nhật hạ long tình ánh tử tiêu",
+                "dich_nghia": "dưới ánh mặt trời lá cờ rồng nhuộm màu mây tía"
+            },
+            {
+                "phien_am": "ý dĩ khẳng giao sinh bối cẩm",
+                "dich_nghia": "không thể để hạt ý dĩ trở thành châu báu"
+            },
+            {
+                "phien_am": "tân lang ưng khả dẫn hồng triều",
+                "dich_nghia": "có thể nhựa hạt cau hóa thành làn sóng đỏ"
+            },
+            {
+                "phien_am": "quý lai điều tấu nam giao sự",
+                "dich_nghia": "khi về tâu trình sự việc ở nam giao"
+            },
+            {
+                "phien_am": "nguyện đạo nhân nhân thuận đế nghiêu",
+                "dich_nghia": "xin nói cho lòng dân nơi đây vui theo nghiêu thuấn"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "poem_content": [
+            {
+                "phien_am": "tiến sách phong phó sứ trương dị bí",
+                "dich_nghia": "tiến phó sứ trương dị bí sang sách phong"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "khâm mệnh trung triều thượng ngọc an",
+                "dich_nghia": "vâng mệnh triều trung hoa lên yên ngựa"
+            },
+            {
+                "phien_am": "thiều thiều trùng noãn phá khinh hàn",
+                "dich_nghia": "đường đi đã tan giá rét ấm áp dần lên"
+            },
+            {
+                "phien_am": "thanh tiêu bích nguyệt hung khâm oánh",
+                "dich_nghia": "đêm thanh trăng biếc tâm hồn sáng sủa"
+            },
+            {
+                "phien_am": "tử mạch hồng trần nhãn giới khoan",
+                "dich_nghia": "mặt đường đỏ vì bụi hồng mắt thấy vẫn thênh thang"
+            },
+            {
+                "phien_am": "hòa khí tiếp nhân di hạo hạo",
+                "dich_nghia": "không khí chan hòa lâng lâng khi tiếp xúc với người"
+            },
+            {
+                "phien_am": "đan tâm hứa quốc mỗi hoàn hoàn",
+                "dich_nghia": "tấm lòng son cứ sôi sục mỗi lần nghĩ đến đất nước"
+            },
+            {
+                "phien_am": "tiễn quân phong độ chân quân tử",
+                "dich_nghia": "đáng khen phong độ người quân tử lộ ra rõ rệt"
+            },
+            {
+                "phien_am": "quỳnh thụ dao lâm bất yếm khan",
+                "dich_nghia": "đẹp như cây quỳnh cành đào ai cũng muốn gần"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "poem_content": [
+            {
+                "phien_am": "trí sĩ giản đồng triều",
+                "dich_nghia": "về hưu viết thư cho bạn đồng triều"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "hữu hạnh đăng khoa tá thánh triều",
+                "dich_nghia": "may mắn được thi đỗ để phò tá thánh triều"
+            },
+            {
+                "phien_am": "hân đình dự liệt tại sư sư",
+                "dich_nghia": "vui được xếp vào hàng ngũ các thầy trong triều đình"
+            },
+            {
+                "phien_am": "đương quan tự quý vô kỳ tiết",
+                "dich_nghia": "khi làm quan thẹn mình không tỏ được tiết tháo gì lạ"
+            },
+            {
+                "phien_am": "thiện dụ hề năng giác hậu trì",
+                "dich_nghia": "cố dẫn dụ sao cho lớp sau hiểu biết"
+            },
+            {
+                "phien_am": "sấu cốt lãng tằng kinh mạt lộ",
+                "dich_nghia": "già thấy xương lởm chởm sợ quãng đường cuối đời"
+            },
+            {
+                "phien_am": "ân luân ưu ốc ngưỡng hồng tư",
+                "dich_nghia": "ơn vua thấm đậm ngưỡng vọng lên cao rộng"
+            },
+            {
+                "phien_am": "hy triều khuông bật đa quần triết",
+                "dich_nghia": "triều thịnh trong số phò tá có nhiều người giỏi"
+            },
+            {
+                "phien_am": "dã tẩu trường ca kích nhưỡng thi",
+                "dich_nghia": "mình nay chỉ như ông già gõ nhị ca tụng mà thôi"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "poem_content": [
+            {
+                "phien_am": "tặng đại thanh sứ chu xán",
+                "dich_nghia": "tặng sứ nước đại thanh là chu xán"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "nguy nguy lệnh vọng bá chương khuê",
+                "dich_nghia": "danh vọng cao vời vợi tỏa sáng như ngọc chương ngọc khuê"
+            },
+            {
+                "phien_am": "ý thị linh chung tự thiểm tây",
+                "dich_nghia": "chắc do khí thiêng đất thiểm tây hun đúc nên"
+            },
+            {
+                "phien_am": "nhất phẩm lân bào từ phượng khuyết",
+                "dich_nghia": "mặc áo kỳ lân bậc nhất từ biệt cửa cung ra đi"
+            },
+            {
+                "phien_am": "thiên trùng điểu đạo độ sơn khê",
+                "dich_nghia": "đường chim xa ngàn trùng qua bao khe núi"
+            },
+            {
+                "phien_am": "ngũ hoa hỷ kiến bao luân hoán",
+                "dich_nghia": "mừng được ban chiếu chỉ bằng giấy năm màu"
+            },
+            {
+                "phien_am": "tứ tự hân chiêm ngự bút đề",
+                "dich_nghia": "sung sướng khi nhìn thấy vua phê bổn chữ"
+            },
+            {
+                "phien_am": "mẫu giá ngôn quy trường ký thủ",
+                "dich_nghia": "nhớ mãi khi đóng xe thắng ngựa để về nước"
+            },
+            {
+                "phien_am": "cao danh thiên tải lạng sơn tê",
+                "dich_nghia": "danh tiếng ông cao như núi lưu truyền ngàn năm"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "poem_content": [
+            {
+                "phien_am": "giảng dụ cực hiền vũ tiên sinh húy chính gián",
+                "dich_nghia": "giữ chức giảng dụ hiệu là cực hiền vũ tiền sinh húy chính gián"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "thị tửu ưu du thảo trạch trung",
+                "dich_nghia": "thơ rượu thung thăng trong chốn thôn quê"
+            },
+            {
+                "phien_am": "niên tôn đức thiệu ái thanh phong",
+                "dich_nghia": "tuổi cao đức lớn nức tiếng phong thái thanh cao"
+            },
+            {
+                "phien_am": "khoa danh tự tục quan thiên số",
+                "dich_nghia": "khoa danh nối dõi thực có quan hệ tới số trời"
+            },
+            {
+                "phien_am": "nho giáo kim đồ tưởng hữu công",
+                "dich_nghia": "nho giáo đến nay còn tưởng nhớ người có công"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "poem_content": [
+            {
+                "phien_am": "tứ tiến sĩ đệ bồi tụng hữu thị lang đông hà tử phụng chỉ hưu trí tặng binh bộ tả thị lang đông hà bá trực khanh vũ thái công húy lương đình lâm chi phụ",
+                "dich_nghia": "đỗ tiến sĩ giữ chức bồi tụng hữu thị lang tước đông hà tử vâng mệnh cho về hưu được tặng hàm tả thị lang bộ binh tước đông hà bá vũ thái công húy lương hiệu là trực khanh là cha của vũ đình lâm"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "lang miếu thân bồi chỉ xích thiên",
+                "dich_nghia": "phụng sự chốn lang miếu gần trời trong gang tấc"
+            },
+            {
+                "phien_am": "lão toàn danh toại phúc kiêm toàn",
+                "dich_nghia": "tuổi già được toàn vẹn danh toại nguyện phúc như thế là đầy đủ"
+            },
+            {
+                "phien_am": "đương quan hưu đạo vô dư lộc",
+                "dich_nghia": "trong khi làm quan đừng nói là không có lộc thừa"
+            },
+            {
+                "phien_am": "phụ tử đồng triều khởi ngẫu nhiên",
+                "dich_nghia": "cha con làm quan đồng triều đâu phải chuyện ngẫu nhiên"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "poem_content": [
+            {
+                "phien_am": "phụng sự triều đình công thần công bộ hữu thị lang hương trạch bá trí sĩ tặng hình bộ thượng thư hương quận công thụy thuần cẩn nhã trai vũ tướng công húy phương trượng",
+                "dich_nghia": "bậc công thần phụng sự triều đình giữ chức hữu thị lang bộ công tước hương trạch bá khi về hưu được tặng thượng thư bộ hình tước hương quận công tên thụy là thuần cẩn vũ tướng công húy phương trượng hiệu là nhã trai"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "lập công đầu bút ngộ minh thì",
+                "dich_nghia": "ném bút lập công gặp đời thái bình anh minh"
+            },
+            {
+                "phien_am": "vạn hoạn danh xưng hướng thọ kỳ",
+                "dich_nghia": "danh vang quan sang hưởng tuổi thọ cao"
+            },
+            {
+                "phien_am": "dự phúc lưu hoàn miêu duệ hậu",
+                "dich_nghia": "phúc đức còn để lại cho con cháu sau này"
+            },
+            {
+                "phien_am": "lão thành trí lực bản tiên tri",
+                "dich_nghia": "trí tuệ người lão thành vốn là biết trước"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "poem_content": [
+            {
+                "phien_am": "phụng sự triều đình hộ bộ lang trung an phú tử tặng thượng bảo tự khanh an phú hầu hiệu sức cẩn vũ thái công húy văn hành trúng giải nguyên công đạo công lượng chi phụ",
+                "dich_nghia": "phụng sự triều đình chức lang trung bộ hộ tước an phú tử được tặng hàm thượng bảo tự khanh tước an phú hầu võ thái công húy văn hành hiệu sức cẩn đỗ giải nguyên là cha của vũ công đạo và vũ công lượng"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "ngô nho sư biểu tống chu trình",
+                "dich_nghia": "là bậc thầy của nhà nho ta như chu trình đời tống"
+            },
+            {
+                "phien_am": "ngộ thánh di duyên mục sủng vinh",
+                "dich_nghia": "gặp được vua sáng nên đã được sủng hạnh"
+            },
+            {
+                "phien_am": "trung hiếu nhất thời do vị mãn",
+                "dich_nghia": "là bậc trung hiếu của một thời mà vẫn còn chưa mãn nguyện"
+            },
+            {
+                "phien_am": "sắc tiền phong hậu thế khoa danh",
+                "dich_nghia": "nghèo khó thiếu thốn đời trước giàu sang phong lưu đời sau đời đời nối nhau đỗ đạt"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "poem_content": [
+            {
+                "phien_am": "tứ tiến sĩ đệ công khoa cấp sự trung tặng công khoa đô cấp sự trung hiệu hòa hương vũ tiên sinh húy đình thiều đình ân chi phụ",
+                "dich_nghia": "đỗ tiến sĩ lãnh chức cấp sự trung công khoa được tặng đô cấp sự trung công khoa hiệu hòa hương vũ tiên sinh húy đình thiều cha của vũ đình ân"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "khoa đăng tự thiếu quốc vinh đam",
+                "dich_nghia": "sớm đỗ đạt mang ơn nước vinh hiển"
+            },
+            {
+                "phien_am": "mạnh miễn tòng vương khôn địch tam",
+                "dich_nghia": "ra sức làm việc nhà vua đến được như hào lục tam trong quẻ khôn"
+            },
+            {
+                "phien_am": "quân sự đã trường thân sự đoản",
+                "dich_nghia": "thời gian phụng sự vua dài phụng sự song thân thì ngắn"
+            },
+            {
+                "phien_am": "thập phần trung hiếu hận do hàm",
+                "dich_nghia": "mười phần trung hiếu còn mang mối hận"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "poem_content": [
+            {
+                "phien_am": "đông các hiệu thư diên trạch bá trí sĩ tặng đông các học sĩ lý hiên vũ thái công húy phương nhạc đỗ bạt cử hàm thượng khảo thiêm tri tiến triều trí sĩ phương đề chi phụ",
+                "dich_nghia": "giữ chức hiệu thư ở tòa đông các tước diên trạch bá trí sĩ được tặng đông các học sĩ hiệu lý hiên vũ thái công húy phương nhạc đỗ khoa bạt cử hàm thượng khảo thiêm tri tiến triều trí sĩ là cha của vũ phương đề"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "tướng khanh hệ xuất đỉnh chung gia",
+                "dich_nghia": "dòng dõi tướng khanh nếp nhà quyền quý"
+            },
+            {
+                "phien_am": "bạt cử nho trường tuấn trật gia",
+                "dich_nghia": "trúng kỳ bạt cử được gia phong phẩm trật lớn"
+            },
+            {
+                "phien_am": "tri túc phong cao quang tổ vũ",
+                "dich_nghia": "tự biết đủ mà dừng phong độ thanh cao làm rạng rỡ tiên tổ"
+            },
+            {
+                "phien_am": "khánh lưu miêu duệ kế đăng khoa",
+                "dich_nghia": "phúc đức để lại cho con cháu nối đời đỗ đạt"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "poem_content": [
+            {
+                "phien_am": "hựu tụng vân",
+                "dich_nghia": "lại có bài tụng"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "sinh tòng hà xứ lai",
+                "dich_nghia": "sinh đến từ nơi nào"
+            },
+            {
+                "phien_am": "tử tòng hà xứ khứ",
+                "dich_nghia": "chết rồi sẽ đi đâu"
+            },
+            {
+                "phien_am": "tri đắc lai khứ xứ",
+                "dich_nghia": "biết được nơi đi nơi đến đó"
+            },
+            {
+                "phien_am": "phương danh học đạo nhân",
+                "dich_nghia": "mới xứng danh là người học đạo"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "poem_content": [
+            {
+                "phien_am": "kệ vân",
+                "dich_nghia": "có bài kệ rằng"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "thành thị du lai ngụ tự nhiên",
+                "dich_nghia": "nơi thị thành chơi dạo ngụ chốn chùa chiền"
+            },
+            {
+                "phien_am": "tùy cơ ứng hóa mỗi thì nhiên",
+                "dich_nghia": "tùy cơ mà ứng hóa mỗi lúc đều theo lẽ tự nhiên"
+            },
+            {
+                "phien_am": "song chiêu nguyệt đáo sàng thiền mật",
+                "dich_nghia": "song cửa đón trăng giường thiền tĩnh mịch"
+            },
+            {
+                "phien_am": "tùng tiêu phong xuy tĩnh khách miên",
+                "dich_nghia": "gió tùng reo thổi vào giấc ngủ êm đềm"
+            },
+            {
+                "phien_am": "sắc ánh lâu đài mình sắc diệu",
+                "dich_nghia": "sắc ánh bên lâu đài càng làm sáng sự diệu kỳ của sắc"
+            },
+            {
+                "phien_am": "thanh truyền chung cổ diễn thanh huyền",
+                "dich_nghia": "âm thanh truyền từ chuông mõ càng khơi thêm lẽ huyền bí của âm thanh"
+            },
+            {
+                "phien_am": "nguyên lai tam giáo đồng nhất thế",
+                "dich_nghia": "từ xưa tới nay tam giáo vốn cùng một gốc"
+            },
+            {
+                "phien_am": "nhậm vận hà tằng lý hữu thiên",
+                "dich_nghia": "khi vận dụng lẽ nào lại làm thiên lệch"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "poem_content": [
+            {
+                "phien_am": "hựu kệ",
+                "dich_nghia": "lại có bài kệ"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "liễu vọng quy chân vạn lụy không",
+                "dich_nghia": "tắt mê vọng quay về với chân tâm thì muôn điều phiền lụy đều sạch"
+            },
+            {
+                "phien_am": "hà sa phàm thánh bản lai đồng",
+                "dich_nghia": "biết bao kẻ phàm người thánh vốn cũng như nhau cả"
+            },
+            {
+                "phien_am": "mê lai tận thị nga đầu diệm",
+                "dich_nghia": "khi mê đắm thì hết sức như thiêu thân lao vào lửa"
+            },
+            {
+                "phien_am": "ngộ khứ phương như hạc khứ lông",
+                "dich_nghia": "lúc chợt tỉnh ra thấy nhẹ nhàng như chim hạc xổ lông"
+            },
+            {
+                "phien_am": "phiến nguyệt ảnh phân thiên giản thủy",
+                "dich_nghia": "có một mảnh trăng mà ảnh soi trong ngàn suối nước"
+            },
+            {
+                "phien_am": "cô tùng thanh nhậm tứ thời phong",
+                "dich_nghia": "có một ngọn tùng mà tiếng reo hứng gió bốn mùa"
+            },
+            {
+                "phien_am": "trực tu mật khế tâm tâm địa",
+                "dich_nghia": "hãy lặng lẽ khế hợp đến thẳng cõi hư không tịch diệt"
+            },
+            {
+                "phien_am": "thủy ngộ sinh bình thụy mộng trung",
+                "dich_nghia": "mới thấy cuộc đời chỉ là một giấc mộng"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "poem_content": [
+            {
+                "phien_am": "hựu kệ",
+                "dich_nghia": "lại có bài kệ"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "tâm pháp song vong do cách vọng",
+                "dich_nghia": "tâm pháp đều quên mà vẫn còn vọng tưởng"
+            },
+            {
+                "phien_am": "sắc trần bất nhị thượng dư trần",
+                "dich_nghia": "sắc không đã là một mà vẫn vướng trần"
+            },
+            {
+                "phien_am": "bách điểu bất lai xuân hựu quá",
+                "dich_nghia": "chim không đến nữa mùa xuân cũng qua rồi"
+            },
+            {
+                "phien_am": "đất trí thùy thị trụ am nhân",
+                "dich_nghia": "không biết ai là người trụ trì trong am"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "poem_content": [
+            {
+                "phien_am": "chúc kệ vận",
+                "dich_nghia": "bài kệ dặn bảo"
+            },
+            {
+                "phien_am": "",
+                "dich_nghia": ""
+            },
+            {
+                "phien_am": "thời đương bát thập bát",
+                "dich_nghia": "giờ ta đang tuổi tám mươi tám"
+            },
+            {
+                "phien_am": "hốt nhiên đăng tọa thoát",
+                "dich_nghia": "bỗng nhiên đăng tòa siêu thoát"
+            },
+            {
+                "phien_am": "hữu lai diệc hữu khứ",
+                "dich_nghia": "có đến thì cũng có đi"
+            },
+            {
+                "phien_am": "vô tử diệc vô hoạt",
+                "dich_nghia": "không có chết thì cũng chẳng có sống"
+            },
+            {
+                "phien_am": "pháp tính đẳng hư không",
+                "dich_nghia": "pháp tính đều là hư không"
+            },
+            {
+                "phien_am": "sắc thân như bào mạt",
+                "dich_nghia": "sắc thân cũng như bọt bèo"
+            },
+            {
+                "phien_am": "đông thổ ly sa bà",
+                "dich_nghia": "về đông thổ rời bỏ cõi sa bà"
+            },
+            {
+                "phien_am": "tây phương liên hoa phát",
+                "dich_nghia": "đến tây phương đóa sen nở"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "poem_content": [
+            {
+                "phien_am": "trí sĩ giản đồng triều",
+                "dich_nghia": "về hưu ghi thơ tâm sự với bạn đồng triều"
+            },
+            {
+                "phien_am": "kỳ nhất",
+                "dich_nghia": "bài một"
+            },
+            {
+                "phien_am": "tứ thập dư niên điểm sủng ban",
+                "dich_nghia": "hơn bốn mươi năm đã lên đến bậc được vua yêu mến"
+            },
+            {
+                "phien_am": "tiền trình thô học bộ hàm đan",
+                "dich_nghia": "nhìn lại chặng đường qua cái học của mình còn thô thiển như trong giấc mộng ở hàm đan"
+            },
+            {
+                "phien_am": "giảng điển mật tiếp tầm sung vị",
+                "dich_nghia": "được vua sai giảng ở tòa kinh diên càng thêm thấy mình gặp may vì thiếu người"
+            },
+            {
+                "phien_am": "chính phủ thân bồi mạn tố xan",
+                "dich_nghia": "được mời bồi tụng ở chính phủ nghĩ mình chỉ ăn dưng chưa làm nên trò trống gì"
+            },
+            {
+                "phien_am": "ưu lão ngưỡng triêm thiên vũ lộ",
+                "dich_nghia": "ưu đãi người già được thấm nhuần ân huệ từ ơn vua ban xuống"
+            },
+            {
+                "phien_am": "truyền gia hạnh kiến thế y quan",
+                "dich_nghia": "nếp nhà truyền đời may mắn được mặc áo mũ quan trên đời"
+            },
+            {
+                "phien_am": "đường ngu tuế nguyệt kiều tiền thọ",
+                "dich_nghia": "năm tháng đường ngu được hưởng tuổi thọ như kiều tiền"
+            },
+            {
+                "phien_am": "kích nhưỡng cuồng ca tự đắc nhàn",
+                "dich_nghia": "gõ nhịp nhị hát say sưa với cảnh an nhàn"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "poem_content": [
+            {
+                "phien_am": "trí sĩ giản đồng triều",
+                "dich_nghia": "về hưu làm thơ gửi bạn đồng triều"
+            },
+            {
+                "phien_am": "kỳ nhị",
+                "dich_nghia": "bài hai"
+            },
+            {
+                "phien_am": "cao thâm đức vị báo quyên ai",
+                "dich_nghia": "đức nhà vua cao sâu chưa đền đáp được bao nhiêu"
+            },
+            {
+                "phien_am": "nhâm nhiễm na tri tuế nguyệt thôi",
+                "dich_nghia": "thấm thoát năm tháng giục giã tuổi người già"
+            },
+            {
+                "phien_am": "mật vật tích tằng bồi thúy ốc",
+                "dich_nghia": "nhớ trước đây từng hầu hạ nơi màn trướng"
+            },
+            {
+                "phien_am": "tiêu dao kim đĩ luyến lương đài",
+                "dich_nghia": "nay đã tiêu dao luyến cảnh đài cao"
+            },
+            {
+                "phien_am": "động trung tự lạc cầm tam lộng",
+                "dich_nghia": "trong động mình vui với tiếng đàn"
+            },
+            {
+                "phien_am": "hoa hạ nhàn ngâm tửu nhất bôi",
+                "dich_nghia": "dưới hoa nhàn nhã ngâm thơ nhắp một chén rượu"
+            },
+            {
+                "phien_am": "thanh dạ hữu thời thần sở vọng",
+                "dich_nghia": "có lúc đêm thanh tĩnh ngắm nhìn chòm sao bắc đẩu"
+            },
+            {
+                "phien_am": "phượng thành như tạc ngọ môn khai",
+                "dich_nghia": "nhớ cửa ngọ môn mở ra ở phượng thành"
+            }
+        ]
+    }
+]
